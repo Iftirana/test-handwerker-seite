@@ -62,12 +62,16 @@ a{
 }
 
 
+
 @media screen and (max-width: 600px) { 
     #cover-bild {
         height: 400px;
     }
     header a{
         font-size: 30px;
+    }
+    nav {
+        background-color: #ffffff;
     }
 }
 
@@ -82,4 +86,5 @@ a{
         width: 25px;
         height: 25px;
     }
+    
 }
